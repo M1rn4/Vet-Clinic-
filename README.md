@@ -1,27 +1,10 @@
-# curriculum-databases-projects-template
-
 This repository includes files with plain SQL that can be used to recreate a database:
 
 - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. 
 
 <a name="readme-top"></a>
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -45,9 +28,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
+# 📖 Vet clinic <a name="about-project"></a>
 
 **Vet-clinic** is a database of a veterinarian clinic
 
@@ -79,8 +60,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[DataBase]**
 - **[CreateTable]**
 - **[Query]**
@@ -97,51 +76,40 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
 
 ```sh
  gem install rails
 ```
- --
+
 
 ### Setup
 
 Clone this repository to your desired folder:
+git@github.com:M1rn4/Vet-Clinic-.git
 
-<!--
-Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd vet-clinic
+  git@github.com:M1rn4/Vet-Clinic-.git
 ```
---->
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
-  cd my-project
-  gem install
+  cd vet-clinic-
+  npm install
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
   rails server
 ```
---->
 
 ### Run tests
 
@@ -191,9 +159,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project you can give me a star ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,9 +167,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank [Microverse](https://www.microverse.org/es/desarrollo-web-full-stack?utm_source=google&utm_medium=paid&utm_campaign=google&utm_term=text&utm_content=performance&gclid=Cj0KCQjw8qmhBhClARIsANAtbodeaMmYOMF5KDAgjrbRUzHt3M-fyPABWYemVAqgh_pavr8SqfxmyNsaAjVPEALw_wcB)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
