@@ -48,5 +48,7 @@ CREATE TABLE visits (
 
 CREATE TABLE specialties (
     id SERIAL PRIMARY KEY,
-    name VARCHAR(255) UNIQUE
+    name VARCHAR(255) UNIQUE,
+    species_id int,
+    vet_id int
 );
