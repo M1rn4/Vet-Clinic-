@@ -148,6 +148,7 @@ ORDER BY num_animals_owned DESC
 LIMIT 1;
 
 /*Write queries to answer the following:
+
 Who was the last animal seen by William Tatcher?
 */
 
